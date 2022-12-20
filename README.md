@@ -2,7 +2,7 @@
 
 This is an extension of the code created in the 'SerialHipertermia' repository, in which experiments have been added so that the uncertainty of the parameters in several simulations can be studied. This way, at the end of the execution the program saves the mean and the standard deviation of the temperature for the stipulated time steps. With the files saved in the '.txt' format, it is possible to use them in the code present in 'temp.py' to generate heat graphs (in 2D) and graphs analyzing the mean and standard deviation of the temperature in specific points of the tissue. <br />
 To compile (linux): <br />
-<h3> $ g++ &nbsp; -lm &nbsp; -O3 &nbsp; main.cpp &nbsp; -o &nbsp; 'file name' &nbsp; <h3 /><br />
+<h3> $ g++ &nbsp; -lm &nbsp; -O3 &nbsp; main.cpp &nbsp; -o &nbsp; 'file name' &nbsp; </ h3><br />
 To execute: $ ./'file name'
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------

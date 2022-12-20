@@ -3,7 +3,10 @@
 <h3>Calculates the mean and the standard deviation of tissue temperature</h3>
 
 <p> This is an extension of the code created in the 'SerialHipertermia' repository (<a href="https://github.com/antonioMarchese/SerialHipertermia">https://github.com/antonioMarchese/SerialHipertermia </a>), in which experiments have been added so that the uncertainty of the parameters in several simulations can be studied. This way, at the end of the execution the program saves the mean and the standard deviation (sdv) of the temperature for the stipulated time steps. </p> 
-<h3>To compile</h3>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p>To compile</p>
 <h4> $ g++ -lm -O3 main.cpp -o 'file name'</h4> 
 <h3>To execute</h3>
 <h4> $ ./'file name'</h4>

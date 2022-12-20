@@ -6,7 +6,8 @@
 <h3>To compile</h3>
 <h4> $ g++ -lm -O3 main.cpp -o 'file name'</h4> 
 <h3>To execute</h3>
-<h4> $ ./'file name'</h4> 
+<h4> $ ./'file name'</h4>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Essa é uma extensão do código criado no repositório 'SerialHipertermia', no qual foram adicionados experimentos para que se possa estudar a incerteza dos parâmetros em várias simulações. Dessa forma, ao final da execução, o programa salva a média e o desvio padrão da temperatura para os passos de tempo estipulados. Com os arquivos salvos no formato '.txt', é possível utilizá-los no código presente em 'temp.py' para gerar gráficos de calor (em 2D) e gráficos analisando a média e o desvio padrão da temperatura em pontos específicos do tecido. <br />

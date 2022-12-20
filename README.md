@@ -20,5 +20,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1>Learn more</h1>
-<p>You can learn more reading <a href="https://www.sciencedirect.com/science/article/pii/S0377042715001247">this paper</a></p>
+<p>You can learn more about it in this<a href="https://www.sciencedirect.com/science/article/pii/S0377042715001247"> paper</a></p>
    

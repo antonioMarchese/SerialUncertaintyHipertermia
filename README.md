@@ -17,5 +17,8 @@
 <h3>To plot temperature mean and sdv of both healthy and diseased tissue</h3>
 <h4>plot_temp()</h4>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h1>Learn more</h1>
+<p>You can learn more reading <a href="https://www.sciencedirect.com/science/article/pii/S0377042715001247">this paper</a></p>
    

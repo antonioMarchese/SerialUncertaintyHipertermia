@@ -16,7 +16,7 @@
 
 <p>Then, in your 'temp.py', with the files saved in the '.txt' format, it is possible to use them to: </p>
 <ul>
-   <li>Generate heatmaps</li>
+   <li>Generate heatmaps with <strong>create_heatmap()</strong></li>
    <li>Create graphs analyzing the mean and standard deviation of the temperature in specific points of the tissue.</li>
 </ul>
 <p>To create heatmaps</p>

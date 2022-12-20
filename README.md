@@ -8,6 +8,7 @@
 
 <p>To compile</p>
 <h4> $ g++ -lm -O3 main.cpp -o 'file name'</h4> 
+<hr />
 <h3>To execute</h3>
 <h4> $ ./'file name'</h4>
 <p>Then, in your 'temp.py', with the files saved in the '.txt' format, it is possible to use them to: </p>

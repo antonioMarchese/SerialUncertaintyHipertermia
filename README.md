@@ -17,12 +17,8 @@
 <p>Then, in your 'temp.py', with the files saved in the '.txt' format, it is possible to use them to: </p>
 <ul>
    <li>Generate heatmaps with <strong>create_heatmap()</strong></li>
-   <li>Create graphs analyzing the mean and standard deviation of the temperature in specific points of the tissue.</li>
+   <li>Create graphs analyzing the mean and standard deviation of the temperature in specific points of the tissue with <strong>plot_temp()</strong></li>
 </ul>
-<p>To create heatmaps</p>
-<h4>create_heatmap()</h4>
-<p>To plot temperature mean and sdv of both healthy and diseased tissue</p>
-<h4>plot_temp()</h4>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 

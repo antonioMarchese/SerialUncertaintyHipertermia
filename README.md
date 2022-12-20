@@ -17,9 +17,5 @@
 <h3>To plot temperature mean and sdv of both healthy and diseased tissue</h3>
 <h4>plot_temp()</h4>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Essa é uma extensão do código criado no repositório 'SerialHipertermia', no qual foram adicionados experimentos para que se possa estudar a incerteza dos parâmetros em várias simulações. Dessa forma, ao final da execução, o programa salva a média e o desvio padrão da temperatura para os passos de tempo estipulados. Com os arquivos salvos no formato '.txt', é possível utilizá-los no código presente em 'temp.py' para gerar gráficos de calor (em 2D) e gráficos analisando a média e o desvio padrão da temperatura em pontos específicos do tecido. <br />
-Para compilar esse programa, deve-se usar (em linux): $ g++ &nbsp; -lm &nbsp; -O3 &nbsp; main.cpp &nbsp; -o &nbsp; 'file name' &nbsp; <br />
-Para executá-lo: $ ./'Nome do executável'
    

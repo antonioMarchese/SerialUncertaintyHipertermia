@@ -9,8 +9,11 @@
 <p>To compile</p>
 <h4> $ g++ -lm -O3 main.cpp -o 'file name'</h4> 
 <hr />
-<h3>To execute</h3>
+
+<p>To execute</p>
 <h4> $ ./'file name'</h4>
+<hr />
+
 <p>Then, in your 'temp.py', with the files saved in the '.txt' format, it is possible to use them to: </p>
 <ul>
    <li>Generate heatmaps</li>
